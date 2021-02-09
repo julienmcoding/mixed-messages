@@ -9,7 +9,7 @@
 
 ## Project goals
 **Context:** In this project, I have created a message generator program. Every time a user runs a program, they should get a new, randomized output. 
-I chose to write a short story with randomly chosen characters and actions
+I chose to write a short story with randomly chosen characters and actions.
 
 ## Technology
 Project is created with:
